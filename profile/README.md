@@ -1,4 +1,4 @@
-# twotwelve
+# TwoTwelve
 
 TwoTwelve is an independent software company from Sheffield, UK.
 
