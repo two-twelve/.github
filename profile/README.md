@@ -1,5 +1,3 @@
-# TwoTwelve
-
 TwoTwelve is an independent software company from Sheffield, UK.
 
 We like to build cool things on the web.
